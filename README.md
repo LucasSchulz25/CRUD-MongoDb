@@ -18,10 +18,6 @@ Este proyecto implementa un CRUD básico (Create, Read, Update, Delete) utilizan
 
 crud-mongodb-typescript/ ├── src/ │ ├── crud.ts │ ├── db.ts │ └── models/ │ └── product.model.ts ├── node_modules/ ├── package.json ├── tsconfig.json └── .gitignore
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## ⚙️ Instalación y ejecución
@@ -33,17 +29,11 @@ git clone https://github.com/LucasSchulz25/CRUD-MongoDB.git
 cd CRUD-MongoDB
 Instalar dependencias:
 
-bash
-Copiar
-Editar
 npm install
 Asegurate de tener MongoDB en ejecución y Compass configurado.
 
 Ejecutar el proyecto:
 
-bash
-Copiar
-Editar
 npm run dev
 🧪 Funcionalidades
 El script realiza las siguientes acciones de prueba:
@@ -62,15 +52,3 @@ Todo eso se realiza automáticamente al ejecutar el archivo principal.
 
 🧠 Autor
 Lucas Schulz
-GitHub
-
-📄 Licencia
-Este proyecto está bajo la licencia MIT.
-
-yaml
-Copiar
-Editar
-
----
-
-¿Querés que te lo guarde directamente en un archivo `README.md` o te lo dejo para que lo pegues vos?
